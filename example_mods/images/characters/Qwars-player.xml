@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Qwars-player.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Idle0000" x="1580" y="0" width="217" height="446" frameX="-248" frameY="-36" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="Idle0001" x="0" y="922" width="223" height="444" frameX="-243" frameY="-38" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="Idle0002" x="314" y="465" width="235" height="438" frameX="-231" frameY="-44" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="Idle0003" x="2001" y="900" width="205" height="450" frameX="-254" frameY="-32" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="Right0000" x="2001" y="0" width="205" height="450" frameX="-254" frameY="-32" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="Right0001" x="1797" y="460" width="204" height="450" frameX="-253" frameY="-32" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="Right0002" x="1580" y="915" width="206" height="450" frameX="-265" frameY="-32" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="Right0003" x="2001" y="1350" width="204" height="450" frameX="-255" frameY="-32" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="Down0000" x="2001" y="450" width="205" height="450" frameX="-254" frameY="-32" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="Down0001" x="1368" y="918" width="207" height="444" frameX="-254" frameY="-38" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="Down0002" x="223" y="922" width="206" height="435" frameX="-254" frameY="-47" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="Down0003" x="0" y="1366" width="206" height="449" frameX="-254" frameY="-33" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="Down0004" x="1580" y="446" width="206" height="469" frameX="-250" frameY="-13" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="Up0000" x="622" y="455" width="308" height="446" frameX="-248" frameY="-36" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="Up0001" x="622" y="0" width="310" height="455" frameX="-247" frameY="-27" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="Up0002" x="0" y="459" width="311" height="463" frameX="-247" frameY="-19" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="Up0003" x="0" y="0" width="314" height="459" frameX="-247" frameY="-23" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="Left0000" x="932" y="0" width="220" height="459" frameX="-247" frameY="-23" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="Left0001" x="932" y="459" width="217" height="461" frameX="-240" frameY="-21" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="Left0002" x="1152" y="0" width="216" height="461" frameX="-232" frameY="-21" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="Left0003" x="1368" y="0" width="212" height="464" frameX="-245" frameY="-18" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="Up-Miss0000" x="314" y="0" width="308" height="465" frameX="-248" frameY="-17" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="Down-miss0000" x="1368" y="464" width="208" height="454" frameX="-254" frameY="-28" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="Left-miss0000" x="1797" y="0" width="204" height="460" frameX="-249" frameY="-22" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="Right-miss0000" x="1152" y="461" width="204" height="461" frameX="-249" frameY="-21" frameWidth="640" frameHeight="480"/>
+</TextureAtlas>

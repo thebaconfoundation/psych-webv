@@ -1,0 +1,1475 @@
+{
+	"generatedBy": "Psych Engine v1.0-prerelease - Chart Editor V-Slice Importer",
+	"charter": null,
+	"artist": "Kawai Sprite",
+	"speed": 2.6,
+	"stage": "phillyStreets",
+	"player1": "pico-playable",
+	"player2": "darnell",
+	"events": [],
+	"notes": [
+		{
+			"sectionNotes": [
+				[0, 5, 0, "weekend-1-lightcan"],
+				[247.252747252747, 6, 0, "weekend-1-kickcan"],
+				[329.67032967033, 1, 0, "weekend-1-cockgun"],
+				[494.505494505495, 7, 0, "weekend-1-kneecan"],
+				[659.340659340659, 0, 0, "weekend-1-firegun"],
+				[824.175824175824, 5, 0, "weekend-1-lightcan"],
+				[989.010989010989, 6, 0, "weekend-1-kickcan"],
+				[989.67032967033, 1, 0, "weekend-1-cockgun"],
+				[1153.84615384615, 7, 0, "weekend-1-kneecan"],
+				[1318.17582417582, 5, 0, "weekend-1-lightcan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": false
+		},
+		{
+			"sectionNotes": [
+				[1318.68131868132, 0, 0, "weekend-1-firegun"],
+				[1565.93406593407, 6, 0, "weekend-1-kickcan"],
+				[1648.67032967033, 1, 0, "weekend-1-cockgun"],
+				[1813.18681318681, 7, 0, "weekend-1-kneecan"],
+				[1978.02197802198, 0, 0, "weekend-1-firegun"],
+				[2142.17582417582, 5, 0, "weekend-1-lightcan"],
+				[2307.01098901099, 6, 0, "weekend-1-kickcan"],
+				[2307.67032967033, 1, 0, "weekend-1-cockgun"],
+				[2471.84615384615, 7, 0, "weekend-1-kneecan"],
+				[2637.17582417582, 5, 0, "weekend-1-lightcan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": false
+		},
+		{
+			"sectionNotes": [
+				[2637.36263736264, 0, 0, "weekend-1-firegun"],
+				[2884.61538461538, 6, 0, "weekend-1-kickcan"],
+				[2967.67032967033, 1, 0, "weekend-1-cockgun"],
+				[3131.86813186813, 7, 0, "weekend-1-kneecan"],
+				[3296.7032967033, 0, 0, "weekend-1-firegun"],
+				[3461.17582417582, 5, 0, "weekend-1-lightcan"],
+				[3626.01098901099, 6, 0, "weekend-1-kickcan"],
+				[3626.67032967033, 1, 0, "weekend-1-cockgun"],
+				[3790.84615384615, 7, 0, "weekend-1-kneecan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": false
+		},
+		{
+			"sectionNotes": [
+				[3956.04395604396, 0, 0, "weekend-1-firegun"],
+				[3956.17582417582, 5, 0, "weekend-1-lightcan"],
+				[4120.87912087912, 1, 0, "weekend-1-firegun"],
+				[4203.2967032967, 6, 0, "weekend-1-kickcan"],
+				[4285.67032967033, 1, 0, "weekend-1-cockgun"],
+				[4450.54945054945, 7, 0, "weekend-1-kneecan"],
+				[4450.54945054945, 1, 0, "weekend-1-kneecan"],
+				[4615.38461538462, 2, 0, "weekend-1-firegun"],
+				[4697.17582417582, 0, 0, "weekend-1-firegun"],
+				[4780.17582417582, 5, 0, "weekend-1-lightcan"],
+				[4780.21978021978, 3, 0, "weekend-1-kneecan"],
+				[4945.01098901099, 6, 0, "weekend-1-kickcan"],
+				[4945.67032967033, 1, 0, "weekend-1-cockgun"],
+				[5109.84615384615, 7, 0, "weekend-1-kneecan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[5274.72527472528, 3, 0, "weekend-1-firegun"],
+				[5439.56043956044, 0, 0, "weekend-1-firegun"],
+				[5604.39560439561, 1, 247.252747252747, "weekend-1-kneecan"],
+				[5934.06593406593, 3, 247.252747252747, "weekend-1-kneecan"],
+				[6263.73626373626, 2, 247.252747252747, "weekend-1-kneecan"],
+				[6593.40659340659, 1, 247.252747252747, "weekend-1-kneecan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[6923.07692307692, 0, 247.252747252747, "weekend-1-kneecan"],
+				[7252.74725274725, 1, 247.252747252747, "weekend-1-kneecan"],
+				[7582.41758241758, 3, 247.252747252747, "weekend-1-kneecan"],
+				[7912.08791208791, 1, 0, "weekend-1-kneecan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[8076.92307692308, 0, 0, "weekend-1-kneecan"],
+				[8241.75824175824, 1, 0, "weekend-1-kneecan"],
+				[8406.59340659341, 2, 0, "weekend-1-kneecan"],
+				[8571.42857142857, 1, 0, "weekend-1-kneecan"],
+				[8736.26373626374, 0, 0, "weekend-1-kneecan"],
+				[8901.0989010989, 1, 0, "weekend-1-kneecan"],
+				[8901.17582417582, 5, 0, "weekend-1-lightcan"],
+				[8983.51648351648, 3, 0, "weekend-1-kneecan"],
+				[9065.93406593407, 1, 0, "weekend-1-kneecan"],
+				[9148.35164835165, 3, 0, "weekend-1-kneecan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[9230.76923076923, 2, 0, "weekend-1-kneecan"],
+				[9560.43956043956, 6, 0, "weekend-1-kickcan"],
+				[9560.43956043956, 1, 0, "weekend-1-kneecan"],
+				[9890.10989010989, 7, 0, "weekend-1-kneecan"],
+				[9890.67032967033, 1, 0, "weekend-1-cockgun"],
+				[10220.3406593406, 0, 0, "weekend-1-firegun"],
+				[10549.1758241758, 5, 0, "weekend-1-lightcan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": false
+		},
+		{
+			"sectionNotes": [
+				[10796.7032967033, 6, 0, "weekend-1-kickcan"],
+				[10879.6703296703, 1, 0, "weekend-1-cockgun"],
+				[11043.956043956, 7, 0, "weekend-1-kneecan"],
+				[11208.7912087912, 0, 0, "weekend-1-firegun"],
+				[11373.3516483516, 5, 0, "weekend-1-lightcan"],
+				[11538.4615384615, 6, 0, "weekend-1-kickcan"],
+				[11538.6703296703, 1, 0, "weekend-1-cockgun"],
+				[11703.2967032967, 7, 0, "weekend-1-kneecan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": false
+		},
+		{
+			"sectionNotes": [
+				[11868.1318681319, 0, 0, "weekend-1-firegun"],
+				[11868.1758241758, 5, 0, "weekend-1-lightcan"],
+				[12115.7032967033, 6, 0, "weekend-1-kickcan"],
+				[12197.6703296703, 1, 0, "weekend-1-cockgun"],
+				[12362.956043956, 7, 0, "weekend-1-kneecan"],
+				[12527.4725274725, 0, 0, "weekend-1-firegun"],
+				[12692.1758241758, 5, 0, "weekend-1-lightcan"],
+				[12857.1428571429, 6, 0, "weekend-1-kickcan"],
+				[12857.6703296703, 1, 0, "weekend-1-cockgun"],
+				[13021.978021978, 7, 0, "weekend-1-kneecan"],
+				[13186.1758241758, 5, 0, "weekend-1-lightcan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": false
+		},
+		{
+			"sectionNotes": [
+				[13186.8131868132, 0, 0, "weekend-1-firegun"],
+				[13433.7032967033, 6, 0, "weekend-1-kickcan"],
+				[13516.6703296703, 1, 0, "weekend-1-cockgun"],
+				[13680.956043956, 7, 0, "weekend-1-kneecan"],
+				[13846.1538461538, 0, 0, "weekend-1-firegun"],
+				[14010.1758241758, 5, 0, "weekend-1-lightcan"],
+				[14175.6703296703, 1, 0, "weekend-1-cockgun"],
+				[14175.8241758242, 6, 0, "weekend-1-kickcan"],
+				[14340.6593406593, 7, 0, "weekend-1-kneecan"],
+				[14505.1758241758, 5, 0, "weekend-1-lightcan"],
+				[14505.4945054945, 0, 0, "weekend-1-firegun"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": false
+		},
+		{
+			"sectionNotes": [
+				[14752.7032967033, 6, 0, "weekend-1-kickcan"],
+				[14835.6703296703, 1, 0, "weekend-1-cockgun"],
+				[14999.956043956, 7, 0, "weekend-1-kneecan"],
+				[15082.4175824176, 0, 0, "weekend-1-firegun"],
+				[15329.1758241758, 5, 0, "weekend-1-lightcan"],
+				[15494.5054945055, 6, 0, "weekend-1-kickcan"],
+				[15494.6703296703, 1, 0, "weekend-1-cockgun"],
+				[15659.3406593407, 7, 0, "weekend-1-kneecan"],
+				[15824.1758241758, 2, 0, "weekend-1-firegun"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": false
+		},
+		{
+			"sectionNotes": [
+				[15989.1758241758, 0, 0, "weekend-1-firegun"],
+				[16153.8461538462, 2, 0, "weekend-1-kneecan"],
+				[16318.6813186813, 2, 0, "weekend-1-kneecan"],
+				[16483.5164835165, 2, 0, "weekend-1-kneecan"],
+				[16648.3516483517, 2, 0, "weekend-1-kneecan"],
+				[16813.1868131868, 3, 0, "weekend-1-kneecan"],
+				[16978.021978022, 2, 0, "weekend-1-kneecan"],
+				[17142.8571428571, 0, 0, "weekend-1-kneecan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[17307.6923076923, 0, 0, "weekend-1-kneecan"],
+				[17472.5274725275, 1, 0, "weekend-1-kneecan"],
+				[17637.3626373626, 3, 0, "weekend-1-kneecan"],
+				[17802.1978021978, 2, 0, "weekend-1-kneecan"],
+				[17967.032967033, 3, 0, "weekend-1-kneecan"],
+				[18131.8681318681, 1, 0, "weekend-1-kneecan"],
+				[18214.2857142857, 0, 0, "weekend-1-kneecan"],
+				[18296.7032967033, 2, 0, "weekend-1-kneecan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[18461.5384615385, 3, 0, "weekend-1-kneecan"],
+				[18626.3736263736, 1, 0, "weekend-1-kneecan"],
+				[18791.2087912088, 2, 0, "weekend-1-kneecan"],
+				[18956.043956044, 0, 0, "weekend-1-kneecan"],
+				[19120.8791208791, 2, 0, "weekend-1-kneecan"],
+				[19285.7142857143, 0, 0, "weekend-1-kneecan"],
+				[19450.5494505495, 3, 0, "weekend-1-kneecan"],
+				[19615.3846153846, 3, 0, "weekend-1-kneecan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[19780.2197802198, 1, 0, "weekend-1-kneecan"],
+				[19945.0549450549, 0, 0, "weekend-1-kneecan"],
+				[20109.8901098901, 1, 0, "weekend-1-kneecan"],
+				[20274.7252747253, 2, 0, "weekend-1-kneecan"],
+				[20439.5604395604, 3, 0, "weekend-1-kneecan"],
+				[20604.3956043956, 2, 0, "weekend-1-kneecan"],
+				[20769.2307692308, 1, 0, "weekend-1-kneecan"],
+				[20851.6483516484, 0, 0, "weekend-1-kneecan"],
+				[20934.0659340659, 1, 0, "weekend-1-kneecan"],
+				[21098.1758241758, 5, 0, "weekend-1-lightcan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[21428.5714285714, 6, 0, "weekend-1-kickcan"],
+				[21428.6703296703, 1, 0, "weekend-1-cockgun"],
+				[21592.956043956, 7, 0, "weekend-1-kneecan"],
+				[21758.1758241758, 5, 0, "weekend-1-lightcan"],
+				[21758.2417582418, 0, 0, "weekend-1-firegun"],
+				[21923.0769230769, 6, 0, "weekend-1-kickcan"],
+				[22087.9120879121, 1, 0, "weekend-1-cockgun"],
+				[22087.9120879121, 7, 0, "weekend-1-kneecan"],
+				[22252.1758241758, 5, 0, "weekend-1-lightcan"],
+				[22417.0769230769, 6, 0, "weekend-1-kickcan"],
+				[22417.5824175824, 0, 0, "weekend-1-firegun"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": false
+		},
+		{
+			"sectionNotes": [
+				[22581.9120879121, 7, 0, "weekend-1-kneecan"],
+				[22582.4175824176, 1, 0, "weekend-1-cockgun"],
+				[22747.0769230769, 6, 0, "weekend-1-kickcan"],
+				[22747.5824175824, 0, 0, "weekend-1-firegun"],
+				[22911.9120879121, 7, 0, "weekend-1-kneecan"],
+				[22912.0879120879, 1, 0, "weekend-1-cockgun"],
+				[23076.0769230769, 6, 0, "weekend-1-kickcan"],
+				[23076.5824175824, 0, 0, "weekend-1-firegun"],
+				[23241.7582417582, 7, 0, "weekend-1-kneecan"],
+				[23241.7582417582, 1, 0, "weekend-1-cockgun"],
+				[23406.0769230769, 6, 0, "weekend-1-kickcan"],
+				[23406.5824175824, 0, 0, "weekend-1-firegun"],
+				[23571.4285714286, 1, 0, "weekend-1-firegun"],
+				[23571.7582417582, 7, 0, "weekend-1-kneecan"],
+				[23736.1758241758, 5, 0, "weekend-1-lightcan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": false
+		},
+		{
+			"sectionNotes": [
+				[23736.5824175824, 0, 0, "weekend-1-firegun"],
+				[24065.9340659341, 1, 0, "weekend-1-cockgun"],
+				[24066.5714285714, 6, 0, "weekend-1-kickcan"],
+				[24230.956043956, 7, 0, "weekend-1-kneecan"],
+				[24395.5824175824, 0, 0, "weekend-1-firegun"],
+				[24396.1758241758, 5, 0, "weekend-1-lightcan"],
+				[24561.0769230769, 6, 0, "weekend-1-kickcan"],
+				[24725.6703296703, 1, 0, "weekend-1-cockgun"],
+				[24725.9120879121, 7, 0, "weekend-1-kneecan"],
+				[24890.1758241758, 5, 0, "weekend-1-lightcan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": false
+		},
+		{
+			"sectionNotes": [
+				[25055.0769230769, 6, 0, "weekend-1-kickcan"],
+				[25055.3406593406, 0, 0, "weekend-1-firegun"],
+				[25219.9120879121, 7, 0, "weekend-1-kneecan"],
+				[25384.6153846154, 1, 0, "weekend-1-cockgun"],
+				[25385.0769230769, 6, 0, "weekend-1-kickcan"],
+				[25549.4505494506, 0, 0, "weekend-1-firegun"],
+				[25549.9120879121, 7, 0, "weekend-1-kneecan"],
+				[25714.0769230769, 6, 0, "weekend-1-kickcan"],
+				[25714.2857142857, 1, 0, "weekend-1-cockgun"],
+				[25879.1758241758, 0, 0, "weekend-1-firegun"],
+				[25879.7582417582, 7, 0, "weekend-1-kneecan"],
+				[26043.956043956, 1, 0, "weekend-1-cockgun"],
+				[26044.0769230769, 6, 0, "weekend-1-kickcan"],
+				[26208.1758241758, 0, 0, "weekend-1-firegun"],
+				[26209.7582417582, 7, 0, "weekend-1-kneecan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": false
+		},
+		{
+			"sectionNotes": [
+				[26373.956043956, 1, 0, "weekend-1-cockgun"],
+				[26538.1758241758, 0, 0, "weekend-1-firegun"],
+				[26703.2967032967, 3, 0, "weekend-1-kneecan"],
+				[26868.1318681319, 1, 0, "weekend-1-kneecan"],
+				[27032.967032967, 2, 0, "weekend-1-kneecan"],
+				[27197.8021978022, 2, 0, "weekend-1-kneecan"],
+				[27362.6373626374, 0, 0, "weekend-1-kneecan"],
+				[27445.0549450549, 1, 0, "weekend-1-kneecan"],
+				[27527.4725274725, 0, 0, "weekend-1-kneecan"],
+				[27609.8901098901, 2, 0, "weekend-1-kneecan"],
+				[27692.3076923077, 3, 0, "weekend-1-kneecan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[27857.1428571429, 2, 0, "weekend-1-kneecan"],
+				[28021.978021978, 2, 0, "weekend-1-kneecan"],
+				[28186.8131868132, 1, 0, "weekend-1-kneecan"],
+				[28351.6483516484, 1, 0, "weekend-1-kneecan"],
+				[28516.4835164835, 3, 0, "weekend-1-kneecan"],
+				[28681.3186813187, 2, 0, "weekend-1-kneecan"],
+				[28763.7362637363, 0, 0, "weekend-1-kneecan"],
+				[28846.1538461538, 1, 0, "weekend-1-kneecan"],
+				[28928.5714285714, 3, 0, "weekend-1-kneecan"],
+				[29010.989010989, 1, 0, "weekend-1-kneecan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[29175.8241758242, 0, 0, "weekend-1-kneecan"],
+				[29340.6593406593, 2, 0, "weekend-1-kneecan"],
+				[29505.4945054945, 1, 0, "weekend-1-kneecan"],
+				[29670.3296703297, 1, 0, "weekend-1-kneecan"],
+				[29835.1648351648, 3, 0, "weekend-1-kneecan"],
+				[30000, 1, 0, "weekend-1-kneecan"],
+				[30082.4175824176, 0, 0, "weekend-1-kneecan"],
+				[30164.8351648352, 1, 0, "weekend-1-kneecan"],
+				[30247.2527472528, 0, 0, "weekend-1-kneecan"],
+				[30329.6703296703, 3, 0, "weekend-1-kneecan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[30659.3406593407, 3, 0, "weekend-1-kneecan"],
+				[30989.010989011, 3, 0, "weekend-1-kneecan"],
+				[31318.6813186813, 3, 0, "weekend-1-kneecan"],
+				[31648.1758241758, 5, 0, "weekend-1-lightcan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[31978.5714285714, 6, 0, "weekend-1-kickcan"],
+				[31978.6703296703, 1, 0, "weekend-1-cockgun"],
+				[32472.5274725275, 7, 0, "weekend-1-kneecan"],
+				[32637.3626373626, 0, 0, "weekend-1-firegun"],
+				[32802.1758241758, 5, 0, "weekend-1-lightcan"],
+				[32884.6153846154, 6, 0, "weekend-1-kickcan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": false
+		},
+		{
+			"sectionNotes": [
+				[32967.032967033, 7, 0, "weekend-1-kneecan"],
+				[32967.6703296703, 1, 0, "weekend-1-cockgun"],
+				[33131.1758241758, 5, 0, "weekend-1-lightcan"],
+				[33297.3406593406, 0, 0, "weekend-1-firegun"],
+				[33461.5384615385, 6, 0, "weekend-1-kickcan"],
+				[33461.6703296703, 1, 0, "weekend-1-cockgun"],
+				[33791.2087912088, 7, 0, "weekend-1-kneecan"],
+				[33956.043956044, 0, 0, "weekend-1-firegun"],
+				[34285.1758241758, 5, 0, "weekend-1-lightcan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": false
+		},
+		{
+			"sectionNotes": [
+				[34615.3846153846, 6, 0, "weekend-1-kickcan"],
+				[34615.6703296703, 1, 0, "weekend-1-cockgun"],
+				[35109.8901098901, 7, 0, "weekend-1-kneecan"],
+				[35274.7252747253, 0, 0, "weekend-1-firegun"],
+				[35439.1758241758, 5, 0, "weekend-1-lightcan"],
+				[35521.6153846154, 6, 0, "weekend-1-kickcan"],
+				[35604.032967033, 7, 0, "weekend-1-kneecan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": false
+		},
+		{
+			"sectionNotes": [
+				[35604.6703296703, 1, 0, "weekend-1-cockgun"],
+				[35769.1758241758, 5, 0, "weekend-1-lightcan"],
+				[35769.2307692308, 0, 0, "weekend-1-firegun"],
+				[36098.6703296703, 1, 0, "weekend-1-cockgun"],
+				[36098.9010989011, 6, 0, "weekend-1-kickcan"],
+				[36428.5714285714, 7, 0, "weekend-1-kneecan"],
+				[36593.4065934066, 0, 0, "weekend-1-firegun"],
+				[36923.0769230769, 2, 0, "weekend-1-kneecan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": false
+		},
+		{
+			"sectionNotes": [
+				[37252.7472527473, 2, 0, "weekend-1-kneecan"],
+				[37747.2527472528, 2, 0, "weekend-1-kneecan"],
+				[38076.9230769231, 1, 0, "weekend-1-kneecan"],
+				[38159.3406593407, 0, 0, "weekend-1-kneecan"],
+				[38241.7582417582, 3, 0, "weekend-1-kneecan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[38489.010989011, 3, 0, "weekend-1-kneecan"],
+				[38736.2637362637, 3, 0, "weekend-1-kneecan"],
+				[39065.9340659341, 3, 0, "weekend-1-kneecan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[39560.4395604396, 1, 0, "weekend-1-kneecan"],
+				[39890.1098901099, 1, 0, "weekend-1-kneecan"],
+				[40384.6153846154, 0, 0, "weekend-1-kneecan"],
+				[40549.1758241758, 5, 0, "weekend-1-lightcan"],
+				[40714.2857142857, 2, 0, "weekend-1-kneecan"],
+				[40796.7032967033, 1, 0, "weekend-1-kneecan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[40879.1208791209, 0, 0, "weekend-1-kneecan"],
+				[41043.956043956, 1, 0, "weekend-1-kneecan"],
+				[41208.7912087912, 6, 0, "weekend-1-kickcan"],
+				[41291.2087912088, 1, 0, "weekend-1-kneecan"],
+				[41538.4615384615, 7, 0, "weekend-1-kneecan"],
+				[41538.6703296703, 1, 0, "weekend-1-cockgun"],
+				[41868.3406593406, 0, 0, "weekend-1-firegun"],
+				[42197.1758241758, 5, 0, "weekend-1-lightcan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": false
+		},
+		{
+			"sectionNotes": [
+				[42527.4725274725, 6, 0, "weekend-1-kickcan"],
+				[42527.6703296703, 1, 0, "weekend-1-cockgun"],
+				[43021.978021978, 7, 0, "weekend-1-kneecan"],
+				[43186.8131868132, 0, 0, "weekend-1-firegun"],
+				[43351.1758241758, 5, 0, "weekend-1-lightcan"],
+				[43433.6153846154, 6, 0, "weekend-1-kickcan"],
+				[43516.032967033, 7, 0, "weekend-1-kneecan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": false
+		},
+		{
+			"sectionNotes": [
+				[43516.6703296703, 1, 0, "weekend-1-cockgun"],
+				[43846.3406593406, 0, 0, "weekend-1-firegun"],
+				[44340.6593406593, 0, 0, "weekend-1-kneecan"],
+				[44670.3296703297, 1, 0, "weekend-1-kneecan"],
+				[44752.7472527473, 0, 0, "weekend-1-kneecan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[44835.1758241758, 5, 0, "weekend-1-lightcan"],
+				[45164.8351648352, 1, 0, "weekend-1-cockgun"],
+				[45164.8351648352, 6, 0, "weekend-1-kickcan"],
+				[45659.3406593407, 7, 0, "weekend-1-kneecan"],
+				[45989.010989011, 0, 0, "weekend-1-firegun"],
+				[45989.1758241758, 5, 0, "weekend-1-lightcan"],
+				[46071.6153846154, 6, 0, "weekend-1-kickcan"],
+				[46153.6703296703, 1, 0, "weekend-1-cockgun"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": false
+		},
+		{
+			"sectionNotes": [
+				[46154.032967033, 7, 0, "weekend-1-kneecan"],
+				[46483.3406593406, 0, 0, "weekend-1-firegun"],
+				[46978.021978022, 3, 0],
+				[47307.6923076923, 3, 0],
+				[47390.1098901099, 2, 0]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[47472.5274725275, 0, 0],
+				[47719.7802197802, 0, 0],
+				[47967.032967033, 0, 0],
+				[48296.7032967033, 2, 0],
+				[48461.5384615385, 2, 0],
+				[48626.3736263736, 2, 0]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[48791.2087912088, 3, 0, "weekend-1-kneecan"],
+				[49038.4615384615, 3, 0, "weekend-1-kneecan"],
+				[49285.7142857143, 3, 0, "weekend-1-kneecan"],
+				[49615.3846153846, 1, 0, "weekend-1-kneecan"],
+				[49780.2197802198, 1, 0, "weekend-1-kneecan"],
+				[49945.054945055, 1, 0, "weekend-1-kneecan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[50109.8901098901, 2, 0, "weekend-1-kneecan"],
+				[50357.1428571429, 2, 0, "weekend-1-kneecan"],
+				[50604.3956043956, 2, 0, "weekend-1-kneecan"],
+				[50934.0659340659, 1, 0, "weekend-1-kneecan"],
+				[51098.1758241758, 5, 0, "weekend-1-lightcan"],
+				[51098.9010989011, 0, 0, "weekend-1-kneecan"],
+				[51263.7362637363, 1, 0, "weekend-1-kneecan"],
+				[51428.5714285714, 2, 0, "weekend-1-kneecan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[51675.8241758242, 2, 0, "weekend-1-kneecan"],
+				[51758.2417582418, 6, 0, "weekend-1-kickcan"],
+				[51923.0769230769, 2, 0, "weekend-1-kneecan"],
+				[52087.6703296703, 1, 0, "weekend-1-cockgun"],
+				[52087.9120879121, 7, 0, "weekend-1-kneecan"],
+				[52417.3406593406, 0, 0, "weekend-1-firegun"],
+				[52747.2307692308, 5, 0, "weekend-1-lightcan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": false
+		},
+		{
+			"sectionNotes": [
+				[52994.5054945055, 6, 0, "weekend-1-kickcan"],
+				[53076.6703296703, 1, 0, "weekend-1-cockgun"],
+				[53241.7582417582, 7, 0, "weekend-1-kneecan"],
+				[53406.5934065934, 0, 0, "weekend-1-firegun"],
+				[53571.1758241758, 5, 0, "weekend-1-lightcan"],
+				[53736.2637362637, 6, 0, "weekend-1-kickcan"],
+				[53736.6703296703, 1, 0, "weekend-1-cockgun"],
+				[53901.0989010989, 7, 0, "weekend-1-kneecan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": false
+		},
+		{
+			"sectionNotes": [
+				[54065.9340659341, 0, 0, "weekend-1-firegun"],
+				[54065.9340659341, 5, 0, "weekend-1-lightcan"],
+				[54313.1868131868, 6, 0, "weekend-1-kickcan"],
+				[54395.6703296703, 1, 0, "weekend-1-cockgun"],
+				[54560.4395604396, 7, 0, "weekend-1-kneecan"],
+				[54725.5824175824, 0, 0, "weekend-1-firegun"],
+				[54890.1758241758, 5, 0, "weekend-1-lightcan"],
+				[55054.6703296703, 1, 0, "weekend-1-cockgun"],
+				[55054.9450549451, 6, 0, "weekend-1-kickcan"],
+				[55219.7802197802, 7, 0, "weekend-1-kneecan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": false
+		},
+		{
+			"sectionNotes": [
+				[55384.6153846154, 0, 0, "weekend-1-firegun"],
+				[55467.032967033, 1, 0, "weekend-1-firegun"],
+				[55549.4505494506, 0, 0, "weekend-1-firegun"],
+				[55714.2857142857, 1, 0, "weekend-1-kneecan"],
+				[55796.7032967033, 0, 0, "weekend-1-kneecan"],
+				[55879.1208791209, 2, 0, "weekend-1-kneecan"],
+				[56043.956043956, 3, 0, "weekend-1-kneecan"],
+				[56126.3736263736, 1, 0, "weekend-1-kneecan"],
+				[56208.7912087912, 2, 0, "weekend-1-kneecan"],
+				[56373.6263736264, 3, 0, "weekend-1-kneecan"],
+				[56456.043956044, 1, 0, "weekend-1-kneecan"],
+				[56538.4615384615, 2, 0, "weekend-1-kneecan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[56703.2967032967, 1, 0, "weekend-1-kneecan"],
+				[56785.7142857143, 0, 0, "weekend-1-kneecan"],
+				[56868.1318681319, 3, 0, "weekend-1-kneecan"],
+				[57032.967032967, 2, 0, "weekend-1-kneecan"],
+				[57115.3846153846, 0, 0, "weekend-1-kneecan"],
+				[57197.8021978022, 3, 0, "weekend-1-kneecan"],
+				[57362.6373626374, 1, 0, "weekend-1-kneecan"],
+				[57445.054945055, 3, 0, "weekend-1-kneecan"],
+				[57527.4725274725, 0, 0, "weekend-1-kneecan"],
+				[57692.3076923077, 2, 0, "weekend-1-kneecan"],
+				[57774.7252747253, 3, 0, "weekend-1-kneecan"],
+				[57857.1428571429, 0, 0, "weekend-1-kneecan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[58021.978021978, 1, 0, "weekend-1-kneecan"],
+				[58104.3956043956, 0, 0, "weekend-1-kneecan"],
+				[58186.8131868132, 2, 0, "weekend-1-kneecan"],
+				[58351.6483516484, 1, 0, "weekend-1-kneecan"],
+				[58434.0659340659, 0, 0, "weekend-1-kneecan"],
+				[58516.4835164835, 2, 0, "weekend-1-kneecan"],
+				[58681.3186813187, 3, 0, "weekend-1-kneecan"],
+				[58763.7362637363, 1, 0, "weekend-1-kneecan"],
+				[58846.1538461539, 2, 0, "weekend-1-kneecan"],
+				[59010.989010989, 3, 0, "weekend-1-kneecan"],
+				[59093.4065934066, 1, 0, "weekend-1-kneecan"],
+				[59175.8241758242, 2, 0, "weekend-1-kneecan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[59340.6593406593, 1, 0, "weekend-1-kneecan"],
+				[59423.0769230769, 0, 0, "weekend-1-kneecan"],
+				[59505.4945054945, 3, 0, "weekend-1-kneecan"],
+				[59670.3296703297, 2, 0, "weekend-1-kneecan"],
+				[59752.7472527473, 0, 0, "weekend-1-kneecan"],
+				[59835.1648351648, 3, 0, "weekend-1-kneecan"],
+				[60000, 1, 0, "weekend-1-kneecan"],
+				[60082.4175824176, 3, 0, "weekend-1-kneecan"],
+				[60164.8351648352, 0, 0, "weekend-1-kneecan"],
+				[60329.6703296703, 2, 0, "weekend-1-kneecan"],
+				[60412.0879120879, 3, 0, "weekend-1-kneecan"],
+				[60494.5054945055, 0, 0, "weekend-1-kneecan"],
+				[60659.1758241758, 5, 0, "weekend-1-lightcan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[60741.6153846154, 6, 0, "weekend-1-kickcan"],
+				[60824.032967033, 7, 0, "weekend-1-kneecan"],
+				[60989.010989011, 1, 0, "weekend-1-cockgun"],
+				[60989.1758241758, 5, 0, "weekend-1-lightcan"],
+				[61071.6153846154, 6, 0, "weekend-1-kickcan"],
+				[61153.8461538462, 0, 0, "weekend-1-firegun"],
+				[61154.032967033, 7, 0, "weekend-1-kneecan"],
+				[61318.1758241758, 5, 0, "weekend-1-lightcan"],
+				[61318.6813186813, 1, 0, "weekend-1-cockgun"],
+				[61400.6153846154, 6, 0, "weekend-1-kickcan"],
+				[61483.032967033, 7, 0, "weekend-1-kneecan"],
+				[61483.1758241758, 0, 0, "weekend-1-firegun"],
+				[61648.1758241758, 5, 0, "weekend-1-lightcan"],
+				[61648.3516483517, 1, 0, "weekend-1-cockgun"],
+				[61730.6153846154, 6, 0, "weekend-1-kickcan"],
+				[61813.032967033, 7, 0, "weekend-1-kneecan"],
+				[61813.1758241758, 0, 0, "weekend-1-firegun"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": false
+		},
+		{
+			"sectionNotes": [
+				[61978.021978022, 1, 0, "weekend-1-cockgun"],
+				[61978.1758241758, 5, 0, "weekend-1-lightcan"],
+				[62060.6153846154, 6, 0, "weekend-1-kickcan"],
+				[62142.1758241758, 0, 0, "weekend-1-firegun"],
+				[62143.032967033, 7, 0, "weekend-1-kneecan"],
+				[62307.1758241758, 5, 0, "weekend-1-lightcan"],
+				[62307.6923076923, 1, 0, "weekend-1-cockgun"],
+				[62389.6153846154, 6, 0, "weekend-1-kickcan"],
+				[62472.032967033, 7, 0, "weekend-1-kneecan"],
+				[62472.1758241758, 0, 0, "weekend-1-firegun"],
+				[62637.1758241758, 5, 0, "weekend-1-lightcan"],
+				[62637.3626373626, 1, 0, "weekend-1-cockgun"],
+				[62719.6153846154, 6, 0, "weekend-1-kickcan"],
+				[62802.032967033, 7, 0, "weekend-1-kneecan"],
+				[62802.1978021978, 0, 0, "weekend-1-firegun"],
+				[62967.032967033, 1, 0, "weekend-1-cockgun"],
+				[62967.1758241758, 5, 0, "weekend-1-lightcan"],
+				[63049.6153846154, 6, 0, "weekend-1-kickcan"],
+				[63131.1758241758, 0, 0, "weekend-1-firegun"],
+				[63132.032967033, 7, 0, "weekend-1-kneecan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": false
+		},
+		{
+			"sectionNotes": [
+				[63296.7032967033, 0, 0, "weekend-1-cockgun"],
+				[63379.032967033, 1, 0, "weekend-1-cockgun"],
+				[63461.1758241758, 0, 0, "weekend-1-firegun"],
+				[63626.3736263736, 1, 0, "weekend-1-kneecan"],
+				[63708.7912087912, 0, 0, "weekend-1-kneecan"],
+				[63791.2087912088, 2, 0, "weekend-1-kneecan"],
+				[63956.043956044, 3, 0, "weekend-1-kneecan"],
+				[64038.4615384615, 1, 0, "weekend-1-kneecan"],
+				[64120.8791208791, 2, 0, "weekend-1-kneecan"],
+				[64285.7142857143, 3, 0, "weekend-1-kneecan"],
+				[64368.1318681319, 1, 0, "weekend-1-kneecan"],
+				[64450.5494505495, 2, 0, "weekend-1-kneecan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[64615.3846153846, 1, 0, "weekend-1-kneecan"],
+				[64697.8021978022, 0, 0, "weekend-1-kneecan"],
+				[64780.2197802198, 3, 0, "weekend-1-kneecan"],
+				[64945.054945055, 2, 0, "weekend-1-kneecan"],
+				[65027.4725274725, 1, 0, "weekend-1-kneecan"],
+				[65109.8901098901, 3, 0, "weekend-1-kneecan"],
+				[65274.7252747253, 2, 0, "weekend-1-kneecan"],
+				[65357.1428571429, 3, 0, "weekend-1-kneecan"],
+				[65439.5604395604, 0, 0, "weekend-1-kneecan"],
+				[65604.3956043956, 2, 0, "weekend-1-kneecan"],
+				[65686.8131868132, 1, 0, "weekend-1-kneecan"],
+				[65769.2307692308, 2, 0, "weekend-1-kneecan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[65934.0659340659, 2, 0],
+				[65934.1758241758, 5, 0, "weekend-1-lightcan"],
+				[66263.6703296703, 1, 0, "weekend-1-cockgun"],
+				[66263.7362637363, 6, 0, "weekend-1-kickcan"],
+				[66758.2417582418, 2, 0, "weekend-1-firegun"],
+				[66758.2417582418, 7, 0, "weekend-1-kneecan"],
+				[67087.1758241758, 5, 0, "weekend-1-lightcan"],
+				[67087.9120879121, 0, 0, "weekend-1-firegun"],
+				[67169.6153846154, 6, 0, "weekend-1-kickcan"],
+				[67170.6703296703, 1, 0, "weekend-1-cockgun"],
+				[67252.032967033, 7, 0, "weekend-1-kneecan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": false
+		},
+		{
+			"sectionNotes": [
+				[67252.7472527473, 3, 0, "weekend-1-firegun"],
+				[67500, 1, 0, "weekend-1-firegun"],
+				[67500.1758241758, 5, 0, "weekend-1-lightcan"],
+				[67664.8351648352, 0, 0, "weekend-1-firegun"],
+				[67747.2527472528, 6, 0, "weekend-1-kickcan"],
+				[67747.6703296703, 1, 0, "weekend-1-cockgun"],
+				[68076.9230769231, 3, 0, "weekend-1-firegun"],
+				[68076.9230769231, 7, 0, "weekend-1-kneecan"],
+				[68406.5934065934, 0, 0, "weekend-1-firegun"],
+				[68571.1758241758, 5, 0, "weekend-1-lightcan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[68571.4285714286, 1, 0, "weekend-1-firegun"],
+				[68901.0989010989, 6, 0, "weekend-1-kickcan"],
+				[68901.0989010989, 1, 0, "weekend-1-cockgun"],
+				[69230.7692307692, 1, 0, "weekend-1-cockgun"],
+				[69395.6043956044, 7, 0, "weekend-1-kneecan"],
+				[69395.6043956044, 3, 0, "weekend-1-cockgun"],
+				[69725.2747252747, 5, 0, "weekend-1-lightcan"],
+				[69725.2747252747, 0, 0, "weekend-1-firegun"],
+				[69807.6703296703, 1, 0, "weekend-1-cockgun"],
+				[69807.7142857143, 6, 0, "weekend-1-kickcan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": false
+		},
+		{
+			"sectionNotes": [
+				[69890.1098901099, 3, 0, "weekend-1-cockgun"],
+				[69890.1318681319, 7, 0, "weekend-1-kneecan"],
+				[70054.1758241758, 5, 0, "weekend-1-lightcan"],
+				[70137.3626373626, 1, 0, "weekend-1-firegun"],
+				[70219.7802197802, 0, 0, "weekend-1-firegun"],
+				[70384.6153846154, 2, 0, "weekend-1-firegun"],
+				[70384.6153846154, 6, 0, "weekend-1-kickcan"],
+				[70549.4505494506, 3, 0, "weekend-1-firegun"],
+				[70714.2857142857, 7, 0, "weekend-1-kneecan"],
+				[70714.2857142857, 2, 0, "weekend-1-firegun"],
+				[70879.6703296703, 1, 0, "weekend-1-cockgun"],
+				[71044.010989011, 0, 0, "weekend-1-firegun"],
+				[71208.1758241758, 5, 0, "weekend-1-lightcan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[71208.7912087912, 1, 0, "weekend-1-firegun"],
+				[71538.4615384615, 6, 0, "weekend-1-kickcan"],
+				[71538.4615384615, 1, 0, "weekend-1-firegun"],
+				[71868.6703296703, 1, 0, "weekend-1-cockgun"],
+				[72032.967032967, 7, 0, "weekend-1-kneecan"],
+				[72032.967032967, 3, 0, "weekend-1-firegun"],
+				[72362.1758241758, 5, 0, "weekend-1-lightcan"],
+				[72362.6373626374, 0, 0, "weekend-1-firegun"],
+				[72444.6153846154, 6, 0, "weekend-1-kickcan"],
+				[72445.6703296703, 1, 0, "weekend-1-cockgun"],
+				[72527.032967033, 7, 0, "weekend-1-kneecan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[72527.4725274725, 3, 0, "weekend-1-firegun"],
+				[72774.1758241758, 5, 0, "weekend-1-lightcan"],
+				[72774.7252747253, 1, 0, "weekend-1-firegun"],
+				[72857.1428571429, 0, 0, "weekend-1-firegun"],
+				[73021.6703296703, 1, 0, "weekend-1-cockgun"],
+				[73021.978021978, 6, 0, "weekend-1-kickcan"],
+				[73351.6483516484, 1, 0, "weekend-1-firegun"],
+				[73351.6483516484, 7, 0, "weekend-1-kneecan"],
+				[73681.3186813187, 0, 0, "weekend-1-firegun"],
+				[73846.1538461538, 2, 0, "weekend-1-firegun"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[73846.1758241758, 5, 0, "weekend-1-lightcan"],
+				[74175.8241758242, 2, 0, "weekend-1-firegun"],
+				[74175.8241758242, 6, 0, "weekend-1-kickcan"],
+				[74505.6703296703, 1, 0, "weekend-1-cockgun"],
+				[74670.3296703297, 3, 0, "weekend-1-firegun"],
+				[74670.3296703297, 7, 0, "weekend-1-kneecan"],
+				[75000, 0, 0, "weekend-1-firegun"],
+				[75000.1758241758, 5, 0, "weekend-1-lightcan"],
+				[75082.4175824176, 2, 0, "weekend-1-firegun"],
+				[75082.6153846154, 6, 0, "weekend-1-kickcan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[75164.8351648352, 3, 0, "weekend-1-firegun"],
+				[75165.032967033, 7, 0, "weekend-1-kneecan"],
+				[75412.0659340659, 5, 0, "weekend-1-lightcan"],
+				[75412.0879120879, 1, 0, "weekend-1-firegun"],
+				[75494.5054945055, 0, 0, "weekend-1-firegun"],
+				[75659.3406593407, 0, 0, "weekend-1-firegun"],
+				[75659.3406593407, 6, 0, "weekend-1-kickcan"],
+				[75824.1758241758, 1, 0, "weekend-1-firegun"],
+				[75989.010989011, 2, 0, "weekend-1-firegun"],
+				[75989.010989011, 7, 0, "weekend-1-kneecan"],
+				[76153.6703296703, 1, 0, "weekend-1-cockgun"],
+				[76318.010989011, 0, 0, "weekend-1-firegun"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[76483.5164835165, 3, 0],
+				[76565.9340659341, 1, 0],
+				[76648.3516483517, 0, 0],
+				[76813.1868131868, 3, 0],
+				[76895.6043956044, 2, 0],
+				[76978.021978022, 0, 0],
+				[77142.8571428571, 3, 0],
+				[77225.2747252747, 1, 0],
+				[77307.6923076923, 0, 0],
+				[77472.5274725275, 0, 0],
+				[77554.9450549451, 2, 0],
+				[77637.3626373626, 3, 0]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[77802.1978021978, 0, 0],
+				[77884.6153846154, 1, 0],
+				[77967.032967033, 3, 0],
+				[78131.8681318681, 0, 0],
+				[78214.2857142857, 3, 0],
+				[78296.7032967033, 1, 0],
+				[78461.5384615385, 0, 0],
+				[78543.956043956, 3, 0],
+				[78626.3736263736, 2, 0],
+				[78791.2087912088, 2, 0],
+				[78873.6263736264, 3, 0],
+				[78956.043956044, 1, 0],
+				[79120.8791208791, 2, 0]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[79203.2967032967, 0, 0],
+				[79285.7142857143, 3, 0],
+				[79450.5494505495, 2, 0],
+				[79532.967032967, 0, 0],
+				[79615.3846153846, 1, 0],
+				[79780.2197802198, 3, 0],
+				[79862.6373626374, 2, 0],
+				[79945.0549450549, 1, 0],
+				[80109.1758241758, 5, 0, "weekend-1-lightcan"],
+				[80109.8901098901, 3, 0],
+				[80192.3076923077, 2, 0],
+				[80274.7252747253, 0, 0],
+				[80439.5604395604, 3, 0]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[80521.978021978, 1, 0],
+				[80604.3956043956, 0, 0],
+				[80769.2307692308, 3, 0],
+				[80769.2307692308, 6, 0, "weekend-1-kickcan"],
+				[80851.6483516484, 2, 0],
+				[80934.0659340659, 1, 0],
+				[81098.6703296703, 1, 0, "weekend-1-cockgun"],
+				[81098.9010989011, 7, 0, "weekend-1-kneecan"],
+				[81428.5714285714, 0, 0, "weekend-1-firegun"],
+				[81593.6703296703, 1, 0, "weekend-1-cockgun"],
+				[81758.1758241758, 5, 0, "weekend-1-lightcan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[81840.6153846154, 6, 0, "weekend-1-kickcan"],
+				[81923.032967033, 7, 0, "weekend-1-kneecan"],
+				[82087.1758241758, 5, 0, "weekend-1-lightcan"],
+				[82169.6153846154, 6, 0, "weekend-1-kickcan"],
+				[82252.032967033, 7, 0, "weekend-1-kneecan"],
+				[82252.7472527473, 0, 0, "weekend-1-firegun"],
+				[82417.1758241758, 5, 0, "weekend-1-lightcan"],
+				[82417.5824175824, 1, 0, "weekend-1-cockgun"],
+				[82499.6153846154, 6, 0, "weekend-1-kickcan"],
+				[82582.032967033, 7, 0, "weekend-1-kneecan"],
+				[82582.1758241758, 0, 0, "weekend-1-firegun"],
+				[82747.1758241758, 5, 0, "weekend-1-lightcan"],
+				[82747.2527472528, 1, 0, "weekend-1-cockgun"],
+				[82829.6153846154, 6, 0, "weekend-1-kickcan"],
+				[82912.032967033, 7, 0, "weekend-1-kneecan"],
+				[82912.1758241758, 0, 0, "weekend-1-firegun"],
+				[83076.1758241758, 5, 0, "weekend-1-lightcan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[83076.9230769231, 1, 0, "weekend-1-cockgun"],
+				[83158.6153846154, 6, 0, "weekend-1-kickcan"],
+				[83241.032967033, 7, 0, "weekend-1-kneecan"],
+				[83241.1758241758, 0, 0, "weekend-1-firegun"],
+				[83406.1758241758, 5, 0, "weekend-1-lightcan"],
+				[83406.5934065934, 1, 0, "weekend-1-cockgun"],
+				[83488.6153846154, 6, 0, "weekend-1-kickcan"],
+				[83571.032967033, 7, 0, "weekend-1-kneecan"],
+				[83571.1758241758, 0, 0, "weekend-1-firegun"],
+				[83736.1758241758, 5, 0, "weekend-1-lightcan"],
+				[83736.2637362637, 1, 0, "weekend-1-cockgun"],
+				[83818.6153846154, 6, 0, "weekend-1-kickcan"],
+				[83901.032967033, 7, 0, "weekend-1-kneecan"],
+				[83901.1758241758, 0, 0, "weekend-1-firegun"],
+				[84065.9120879121, 5, 0, "weekend-1-lightcan"],
+				[84065.9340659341, 1, 0, "weekend-1-cockgun"],
+				[84148.3516483517, 6, 0, "weekend-1-kickcan"],
+				[84230.1758241758, 0, 0, "weekend-1-firegun"],
+				[84230.7692307692, 7, 0, "weekend-1-kneecan"],
+				[84395.6043956044, 0, 0]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[84478.021978022, 2, 0],
+				[84560.4395604396, 3, 0],
+				[84725.2747252747, 0, 0],
+				[84807.6923076923, 1, 0],
+				[84890.1098901099, 3, 0],
+				[85054.9450549451, 2, 0],
+				[85137.3626373626, 0, 0],
+				[85219.7802197802, 3, 0],
+				[85384.1758241758, 5, 0, "weekend-1-lightcan"],
+				[85384.6153846154, 1, 0],
+				[85467.032967033, 0, 0],
+				[85549.4505494506, 3, 0],
+				[85714.2857142857, 2, 0]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[85796.7032967033, 3, 0],
+				[85879.1208791209, 1, 0],
+				[86043.956043956, 6, 0, "weekend-1-kickcan"],
+				[86043.956043956, 0, 0],
+				[86126.3736263736, 2, 0],
+				[86208.7912087912, 1, 0],
+				[86373.6263736264, 7, 0, "weekend-1-kneecan"],
+				[86373.6703296703, 1, 0, "weekend-1-cockgun"],
+				[86703.2967032967, 0, 0, "weekend-1-firegun"],
+				[87032.1758241758, 5, 0, "weekend-1-lightcan"],
+				[87032.967032967, 1, 0]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[87362.6373626374, 1, 0],
+				[87362.6373626374, 6, 0, "weekend-1-kickcan"],
+				[87857.1428571429, 7, 0, "weekend-1-kneecan"],
+				[87857.6703296703, 1, 0, "weekend-1-cockgun"],
+				[88186.1758241758, 5, 0, "weekend-1-lightcan"],
+				[88186.8131868132, 0, 0, "weekend-1-firegun"],
+				[88268.6153846154, 6, 0, "weekend-1-kickcan"],
+				[88269.2307692308, 3, 0],
+				[88351.032967033, 7, 0, "weekend-1-kneecan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[88351.6483516484, 1, 0],
+				[88598.1758241758, 5, 0, "weekend-1-lightcan"],
+				[88598.9010989011, 1, 0, "weekend-1-firegun"],
+				[88763.7362637363, 0, 0, "weekend-1-firegun"],
+				[88846.1538461539, 1, 0],
+				[88846.1538461539, 6, 0, "weekend-1-kickcan"],
+				[89175.6703296703, 1, 0, "weekend-1-cockgun"],
+				[89175.8241758242, 7, 0, "weekend-1-kneecan"],
+				[89505.4945054945, 0, 0, "weekend-1-firegun"],
+				[89670.1758241758, 5, 0, "weekend-1-lightcan"],
+				[89670.3296703297, 2, 0]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[90000, 6, 0, "weekend-1-kickcan"],
+				[90000, 2, 0],
+				[90494.5054945055, 7, 0, "weekend-1-kneecan"],
+				[90494.6703296703, 1, 0, "weekend-1-cockgun"],
+				[90824.1758241758, 5, 0, "weekend-1-lightcan"],
+				[90824.1758241758, 0, 0, "weekend-1-firegun"],
+				[90906.5934065934, 2, 0],
+				[90906.6153846154, 6, 0, "weekend-1-kickcan"],
+				[90989.010989011, 1, 0]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[90989.032967033, 7, 0, "weekend-1-kneecan"],
+				[91153.6703296703, 1, 0, "weekend-1-cockgun"],
+				[91236.1758241758, 5, 0, "weekend-1-lightcan"],
+				[91318.1758241758, 0, 0, "weekend-1-firegun"],
+				[91483.5164835165, 1, 0],
+				[91483.5164835165, 6, 0, "weekend-1-kickcan"],
+				[91648.3516483517, 2, 0],
+				[91813.1868131868, 7, 0, "weekend-1-kneecan"],
+				[91813.1868131868, 3, 0],
+				[91978.6703296703, 1, 0, "weekend-1-cockgun"],
+				[92143.010989011, 0, 0, "weekend-1-firegun"],
+				[92307.1758241758, 5, 0, "weekend-1-lightcan"],
+				[92307.6923076923, 1, 0]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[92637.3626373626, 6, 0, "weekend-1-kickcan"],
+				[92637.3626373626, 1, 0],
+				[93131.6703296703, 1, 0, "weekend-1-cockgun"],
+				[93131.8681318681, 7, 0, "weekend-1-kneecan"],
+				[93461.1758241758, 5, 0, "weekend-1-lightcan"],
+				[93461.5384615385, 0, 0, "weekend-1-firegun"],
+				[93543.6153846154, 6, 0, "weekend-1-kickcan"],
+				[93543.956043956, 2, 0],
+				[93626.032967033, 7, 0, "weekend-1-kneecan"],
+				[93626.3736263736, 3, 0]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[93791.6703296703, 1, 0, "weekend-1-cockgun"],
+				[93873.1758241758, 5, 0, "weekend-1-lightcan"],
+				[93956.010989011, 0, 0, "weekend-1-firegun"],
+				[94120.8791208791, 6, 0, "weekend-1-kickcan"],
+				[94120.8791208791, 1, 0],
+				[94450.5494505495, 1, 0],
+				[94450.5494505495, 7, 0, "weekend-1-kneecan"],
+				[94615.6703296703, 1, 0, "weekend-1-cockgun"],
+				[94780.2197802198, 0, 0, "weekend-1-firegun"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[94945.054945055, 3, 0],
+				[94945.1758241758, 5, 0, "weekend-1-lightcan"],
+				[95274.7252747253, 2, 0],
+				[95274.7252747253, 6, 0, "weekend-1-kickcan"],
+				[95604.6703296703, 1, 0, "weekend-1-cockgun"],
+				[95769.2307692308, 1, 0],
+				[95769.2307692308, 7, 0, "weekend-1-kneecan"],
+				[96098.1758241758, 5, 0, "weekend-1-lightcan"],
+				[96098.9010989011, 0, 0, "weekend-1-firegun"],
+				[96180.6153846154, 6, 0, "weekend-1-kickcan"],
+				[96181.3186813187, 1, 0],
+				[96263.032967033, 7, 0, "weekend-1-kneecan"],
+				[96263.6703296703, 1, 0, "weekend-1-cockgun"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[96510.1758241758, 5, 0, "weekend-1-lightcan"],
+				[96510.989010989, 0, 0, "weekend-1-firegun"],
+				[96758.2417582418, 1, 0],
+				[96758.2417582418, 6, 0, "weekend-1-kickcan"],
+				[96923.0769230769, 2, 0],
+				[97087.9120879121, 3, 0],
+				[97087.9120879121, 7, 0, "weekend-1-kneecan"],
+				[97252.6703296703, 1, 0, "weekend-1-cockgun"],
+				[97417.010989011, 0, 0, "weekend-1-firegun"],
+				[97582, 5, 0, "weekend-1-lightcan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[97829.2527472527, 6, 0, "weekend-1-kickcan"],
+				[97912.0879120879, 1, 0, "weekend-1-cockgun"],
+				[98076.5054945055, 7, 0, "weekend-1-kneecan"],
+				[98241.7582417582, 0, 0, "weekend-1-firegun"],
+				[98406.1758241758, 5, 0, "weekend-1-lightcan"],
+				[98571.010989011, 6, 0, "weekend-1-kickcan"],
+				[98571.6703296703, 1, 0, "weekend-1-cockgun"],
+				[98735.8461538462, 7, 0, "weekend-1-kneecan"],
+				[98900.1758241758, 5, 0, "weekend-1-lightcan"],
+				[98901.0989010989, 0, 0, "weekend-1-firegun"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[99147.9340659341, 6, 0, "weekend-1-kickcan"],
+				[99230.6703296703, 1, 0, "weekend-1-cockgun"],
+				[99395.1868131868, 7, 0, "weekend-1-kneecan"],
+				[99560.4395604396, 0, 0, "weekend-1-firegun"],
+				[99724.1758241758, 5, 0, "weekend-1-lightcan"],
+				[99889.010989011, 6, 0, "weekend-1-kickcan"],
+				[99890.6703296703, 1, 0, "weekend-1-cockgun"],
+				[100053.846153846, 7, 0, "weekend-1-kneecan"],
+				[100219.175824176, 5, 0, "weekend-1-lightcan"],
+				[100219.78021978, 0, 0, "weekend-1-firegun"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[100466.615384615, 6, 0, "weekend-1-kickcan"],
+				[100549.450549451, 1, 0, "weekend-1-cockgun"],
+				[100713.868131868, 7, 0, "weekend-1-kneecan"],
+				[100879.120879121, 0, 0, "weekend-1-firegun"],
+				[101043.175824176, 5, 0, "weekend-1-lightcan"],
+				[101208.010989011, 6, 0, "weekend-1-kickcan"],
+				[101208.67032967, 1, 0, "weekend-1-cockgun"],
+				[101372.846153846, 7, 0, "weekend-1-kneecan"],
+				[101538.175824176, 5, 0, "weekend-1-lightcan"],
+				[101538.450549451, 1, 0, "weekend-1-cockgun"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[101703.296703297, 2, 0],
+				[101785.296703297, 6, 0, "weekend-1-kickcan"],
+				[101868.120879121, 0, 0, "weekend-1-firegun"],
+				[102032.549450549, 7, 0, "weekend-1-kneecan"],
+				[102032.967032967, 3, 0],
+				[102197.802197802, 1, 0, "weekend-1-firegun"],
+				[102362.175824176, 0, 0, "weekend-1-firegun"],
+				[102362.175824176, 5, 0, "weekend-1-lightcan"],
+				[102527.010989011, 6, 0, "weekend-1-kickcan"],
+				[102527.472527473, 1, 0],
+				[102691.846153846, 7, 0, "weekend-1-kneecan"],
+				[102692.67032967, 1, 0, "weekend-1-cockgun"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[102857.142857143, 2, 0],
+				[103021.175824176, 0, 0, "weekend-1-firegun"],
+				[103186.813186813, 1, 0],
+				[103516.483516484, 2, 0],
+				[103846.153846154, 3, 0],
+				[104175.824175824, 0, 0]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[104505.494505495, 1, 0],
+				[104835.164835165, 2, 0],
+				[105164.835164835, 1, 0]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[105494.505494506, 0, 0],
+				[105659.340659341, 3, 0],
+				[105824.175824176, 0, 0],
+				[105989.010989011, 3, 0],
+				[106153.846153846, 1, 0],
+				[106318.681318681, 1, 0],
+				[106483.516483516, 2, 0],
+				[106565.934065934, 0, 0],
+				[106648.351648352, 2, 0],
+				[106730.769230769, 3, 0]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[106813.186813187, 2, 0],
+				[107142.857142857, 1, 0],
+				[108131.868131868, 1, 0]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[108214.285714286, 0, 0],
+				[108296.703296703, 2, 0],
+				[108461.538461538, 1, 0],
+				[108543.956043956, 0, 0],
+				[108626.373626374, 2, 0],
+				[108791.208791209, 1, 0],
+				[108873.626373626, 3, 0],
+				[108956.043956044, 2, 0],
+				[109120.879120879, 1, 0],
+				[109203.296703297, 3, 0],
+				[109285.714285714, 2, 0],
+				[109450.549450549, 1, 0]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[109532.967032967, 0, 0],
+				[109615.384615385, 3, 0],
+				[109780.21978022, 1, 0],
+				[109862.637362637, 3, 0],
+				[109945.054945055, 0, 0],
+				[110109.89010989, 2, 0],
+				[110192.307692308, 0, 0],
+				[110274.725274725, 3, 0],
+				[110439.56043956, 2, 0],
+				[110521.978021978, 3, 0],
+				[110604.395604396, 0, 0]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[110769.230769231, 1, 0],
+				[110851.648351648, 0, 0],
+				[110934.065934066, 2, 0],
+				[111098.901098901, 1, 0],
+				[111181.318681319, 0, 0],
+				[111263.736263736, 2, 0],
+				[111428.571428571, 2, 0],
+				[111510.989010989, 1, 0],
+				[111593.406593407, 3, 0],
+				[111758.241758242, 2, 0],
+				[111840.659340659, 3, 0],
+				[111923.076923077, 1, 0],
+				[112087.912087912, 1, 0]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[112170.32967033, 0, 0],
+				[112252.747252747, 3, 0],
+				[112417.582417582, 2, 0],
+				[112500, 3, 0],
+				[112582.417582418, 0, 0],
+				[112747.252747253, 1, 0],
+				[112829.67032967, 3, 0],
+				[112912.087912088, 0, 0],
+				[113076.923076923, 2, 0],
+				[113159.340659341, 0, 0],
+				[113241.758241758, 3, 0],
+				[113406.175824176, 5, 0, "weekend-1-lightcan"],
+				[113406.593406593, 1, 0]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[113488.615384615, 6, 0, "weekend-1-kickcan"],
+				[113571.032967033, 7, 0, "weekend-1-kneecan"],
+				[113571.428571429, 2, 0],
+				[113736.175824176, 5, 0, "weekend-1-lightcan"],
+				[113736.923076923, 1, 0, "weekend-1-cockgun"],
+				[113818.615384615, 6, 0, "weekend-1-kickcan"],
+				[113901.032967033, 7, 0, "weekend-1-kneecan"],
+				[113901.175824176, 0, 0, "weekend-1-firegun"],
+				[114065.175824176, 5, 0, "weekend-1-lightcan"],
+				[114065.923076923, 1, 0, "weekend-1-cockgun"],
+				[114147.615384615, 6, 0, "weekend-1-kickcan"],
+				[114230.032967033, 7, 0, "weekend-1-kneecan"],
+				[114230.175824176, 0, 0, "weekend-1-firegun"],
+				[114395.175824176, 5, 0, "weekend-1-lightcan"],
+				[114395.923076923, 1, 0, "weekend-1-cockgun"],
+				[114477.615384615, 6, 0, "weekend-1-kickcan"],
+				[114478.021978022, 3, 0],
+				[114560.032967033, 7, 0, "weekend-1-kneecan"],
+				[114560.175824176, 0, 0, "weekend-1-firegun"],
+				[114725.175824176, 5, 0, "weekend-1-lightcan"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[114725.923076923, 1, 0, "weekend-1-cockgun"],
+				[114807.615384615, 6, 0, "weekend-1-kickcan"],
+				[114890.032967033, 7, 0, "weekend-1-kneecan"],
+				[114890.175824176, 0, 0, "weekend-1-firegun"],
+				[115054.175824176, 5, 0, "weekend-1-lightcan"],
+				[115054.923076923, 1, 0, "weekend-1-cockgun"],
+				[115136.615384615, 6, 0, "weekend-1-kickcan"],
+				[115219.032967033, 7, 0, "weekend-1-kneecan"],
+				[115219.175824176, 0, 0, "weekend-1-firegun"],
+				[115384.175824176, 5, 0, "weekend-1-lightcan"],
+				[115384.923076923, 1, 0, "weekend-1-cockgun"],
+				[115466.615384615, 6, 0, "weekend-1-kickcan"],
+				[115549.032967033, 7, 0, "weekend-1-kneecan"],
+				[115549.175824176, 0, 0, "weekend-1-firegun"],
+				[115714.175824176, 5, 0, "weekend-1-lightcan"],
+				[115714.923076923, 1, 0, "weekend-1-cockgun"],
+				[115796.615384615, 6, 0, "weekend-1-kickcan"],
+				[115879.032967033, 7, 0, "weekend-1-kneecan"],
+				[115879.175824176, 0, 0, "weekend-1-firegun"],
+				[116043.956043956, 1, 0, "weekend-1-firegun"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[116126.373626374, 3, 0],
+				[116208.791208791, 0, 0, "weekend-1-firegun"],
+				[116373.626373626, 2, 0],
+				[116456.043956044, 0, 0],
+				[116538.461538462, 2, 0],
+				[116703.296703297, 3, 0],
+				[116785.714285714, 2, 0],
+				[116868.131868132, 3, 0],
+				[117032.967032967, 5, 0, "weekend-1-lightcan"],
+				[117032.967032967, 2, 0],
+				[117115.384615385, 1, 0],
+				[117197.802197802, 2, 0],
+				[117362.637362637, 0, 0]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[117445.054945055, 2, 0],
+				[117527.472527473, 0, 0],
+				[117692.307692308, 1, 0],
+				[117692.307692308, 6, 0, "weekend-1-kickcan"],
+				[117774.725274725, 3, 0],
+				[117857.142857143, 2, 0],
+				[118021.923076923, 1, 0, "weekend-1-cockgun"],
+				[118021.978021978, 7, 0, "weekend-1-kneecan"],
+				[118351.648351648, 0, 0, "weekend-1-firegun"]
+			],
+			"sectionBeats": 4,
+			"mustHitSection": true
+		}
+	],
+	"gfVersion": "nene",
+	"format": "psych_v1_convert",
+	"bpm": 182,
+	"needsVoices": true,
+	"song": "2Hot",
+	"offset": 0
+}

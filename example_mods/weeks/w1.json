@@ -1,0 +1,27 @@
+{
+	"songs": [
+		[
+			"dyno",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": true,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "crayzay",
+	"weekCharacters": [
+		"qwars",
+		"bf",
+		"nene"
+	],
+	"storyName": "okay, nene's here? what the fuck is with these dumb ass cameos? >:(",
+	"weekName": "suffering",
+	"hideStoryMode": false,
+	"weekBefore": "w1",
+	"startUnlocked": false
+}

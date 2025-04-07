@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfnew.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="idle0000" x="394" y="952" width="394" height="482" frameX="-36" frameY="0" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="idle0001" x="394" y="952" width="394" height="482" frameX="-36" frameY="0" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="idle0002" x="788" y="952" width="391" height="474" frameX="-36" frameY="-8" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="idle0003" x="1884" y="0" width="388" height="456" frameX="-43" frameY="-26" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="idle0004" x="1884" y="456" width="376" height="445" frameX="-55" frameY="-37" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="idle0005" x="1179" y="952" width="397" height="465" frameX="-35" frameY="-17" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="idle0006" x="1413" y="470" width="407" height="481" frameX="-25" frameY="-1" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="left0000" x="1348" y="1916" width="337" height="481" frameX="-95" frameY="-1" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="left0001" x="676" y="1434" width="337" height="481" frameX="-81" frameY="-1" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="left0002" x="1685" y="1916" width="337" height="480" frameX="-61" frameY="-2" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="left0003" x="1685" y="1916" width="337" height="480" frameX="-61" frameY="-2" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="left0004" x="1013" y="1434" width="337" height="481" frameX="-75" frameY="-1" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="left0005" x="2022" y="1916" width="337" height="479" frameX="-81" frameY="-3" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="allmisses0000" x="2609" y="1419" width="322" height="480" frameX="-61" frameY="-2" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="allmisses0001" x="2609" y="1419" width="322" height="480" frameX="-61" frameY="-2" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="allmisses0002" x="2609" y="936" width="322" height="483" frameX="-61" frameY="1" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="right0000" x="1350" y="1434" width="337" height="481" frameX="-95" frameY="-1" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="right0001" x="2272" y="0" width="337" height="484" frameX="-105" frameY="2" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="right0002" x="0" y="1434" width="339" height="482" frameX="-109" frameY="0" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="right0003" x="339" y="1434" width="337" height="482" frameX="-102" frameY="0" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="right0004" x="2272" y="484" width="337" height="484" frameX="-93" frameY="2" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="right0005" x="337" y="1916" width="337" height="484" frameX="-79" frameY="2" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="down0000" x="1687" y="1434" width="337" height="481" frameX="-95" frameY="-1" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="down0001" x="2609" y="467" width="332" height="469" frameX="-95" frameY="-13" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="down0002" x="2272" y="1452" width="328" height="453" frameX="-99" frameY="-29" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="down0003" x="2609" y="1899" width="333" height="464" frameX="-96" frameY="-18" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="down0004" x="1884" y="901" width="341" height="484" frameX="-93" frameY="2" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="up0000" x="1011" y="1916" width="337" height="481" frameX="-95" frameY="-1" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="up0001" x="674" y="1916" width="337" height="484" frameX="-92" frameY="2" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="up0002" x="0" y="1916" width="337" height="484" frameX="-88" frameY="2" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="up0003" x="2272" y="968" width="337" height="484" frameX="-92" frameY="2" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="up0004" x="2609" y="0" width="337" height="467" frameX="-93" frameY="-15" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="takeoffhoodie0000" x="0" y="952" width="394" height="482" frameX="-36" frameY="0" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="takeoffhoodie0001" x="942" y="0" width="471" height="482" frameX="-27" frameY="0" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="takeoffhoodie0002" x="471" y="0" width="471" height="482" frameX="-27" frameY="0" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="takeoffhoodie0003" x="0" y="0" width="471" height="482" frameX="-27" frameY="0" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="takeoffhoodie0004" x="471" y="482" width="471" height="470" frameX="-27" frameY="-12" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="takeoffhoodie0005" x="942" y="482" width="471" height="470" frameX="-27" frameY="-12" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="takeoffhoodie0006" x="1413" y="0" width="471" height="470" frameX="-27" frameY="-12" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="takeoffhoodie0007" x="0" y="482" width="471" height="470" frameX="-27" frameY="-12" frameWidth="640" frameHeight="480"/>
+</TextureAtlas>

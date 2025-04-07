@@ -1,0 +1,9 @@
+{
+	"idle_anim": "idle",
+	"image": "menu_qwars",
+	"position": [220, 200],
+	"flipX": false,
+	"antialiasing": true,
+	"scale": 1.5,
+	"confirm_anim": "idle"
+}

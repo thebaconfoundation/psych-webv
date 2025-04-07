@@ -1,0 +1,23 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [120, -260],
+			"anim": "idle",
+			"fps": 24,
+			"name": "any",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/hellqwars",
+	"position": [0, 0],
+	"healthicon": "q-hid",
+	"flip_x": false,
+	"healthbar_colors": [0, 0, 0],
+	"camera_position": [-260, 260],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

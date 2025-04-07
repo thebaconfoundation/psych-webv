@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dino.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="san0000" x="0" y="0" width="520" height="403" frameX="-28" frameY="-47" frameWidth="640" frameHeight="480"/>
+</TextureAtlas>

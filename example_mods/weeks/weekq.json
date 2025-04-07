@@ -1,0 +1,73 @@
+{
+	"songs": [
+		[
+			"False-Lies",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"qwars",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"real-cold",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"eloping",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"you-cant-run",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"blurred",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "tiradical",
+	"weekCharacters": [
+		"qwars",
+		"bf",
+		"pico"
+	],
+	"storyName": "and pico is not in this week why is he here the fuck actually",
+	"weekName": "selgrjdbkfsa;fsjldk",
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

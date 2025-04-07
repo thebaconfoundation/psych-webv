@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				50,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "Qwarsdied"
+		},
+		{
+			"offsets": [
+				50,
+				70
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "Qwarsdedloop"
+		},
+		{
+			"offsets": [
+				50,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "Qwarsdedconfirm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/qwars-dead",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "qwars",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

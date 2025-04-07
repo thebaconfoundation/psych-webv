@@ -1,0 +1,7 @@
+{
+	"name": "fnf vs qwars",
+	"description": "there's a secret song, look in mods/data for it ;)",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [50, 255, 50]
+}

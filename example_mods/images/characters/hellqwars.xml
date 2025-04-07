@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hellqwars.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="any0000" x="526" y="0" width="263" height="440" frameX="-177" frameY="-42" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="any0001" x="789" y="0" width="263" height="440" frameX="-177" frameY="-42" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="any0002" x="526" y="440" width="263" height="440" frameX="-177" frameY="-42" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="any0003" x="0" y="440" width="263" height="440" frameX="-177" frameY="-42" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="any0004" x="263" y="440" width="263" height="440" frameX="-177" frameY="-42" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="any0005" x="1052" y="0" width="263" height="440" frameX="-177" frameY="-42" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="any0006" x="1052" y="440" width="263" height="440" frameX="-177" frameY="-42" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="any0007" x="263" y="0" width="263" height="440" frameX="-177" frameY="-42" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="any0008" x="789" y="440" width="263" height="440" frameX="-177" frameY="-42" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="any0009" x="1315" y="0" width="263" height="440" frameX="-177" frameY="-42" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="any0010" x="0" y="0" width="263" height="440" frameX="-177" frameY="-42" frameWidth="640" frameHeight="480"/>
+</TextureAtlas>

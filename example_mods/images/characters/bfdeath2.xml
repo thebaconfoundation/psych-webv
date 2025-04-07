@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfdeath2.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="retryconfirm0000" x="1052" y="968" width="514" height="451" frameX="-4" frameY="-21" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="retryconfirm0001" x="529" y="968" width="523" height="451" frameX="-4" frameY="-21" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="retryconfirm0002" x="1288" y="0" width="533" height="452" frameX="-4" frameY="-21" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="retryconfirm0003" x="1288" y="452" width="531" height="452" frameX="-4" frameY="-21" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="retryconfirm0004" x="0" y="968" width="529" height="452" frameX="-4" frameY="-21" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="deathloop0000" x="0" y="1420" width="400" height="272" frameX="-102" frameY="-201" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="firstdeath0000" x="1566" y="968" width="227" height="226" frameX="-208" frameY="-94" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="firstdeath0001" x="0" y="0" width="644" height="484" frameX="2" frameY="2" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="firstdeath0002" x="644" y="0" width="644" height="484" frameX="2" frameY="2" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="firstdeath0003" x="0" y="484" width="644" height="484" frameX="2" frameY="2" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="firstdeath0004" x="644" y="484" width="644" height="484" frameX="2" frameY="2" frameWidth="640" frameHeight="480"/>
+</TextureAtlas>
